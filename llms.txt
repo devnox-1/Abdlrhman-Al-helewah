@@ -1,0 +1,68 @@
+# Abdlrhman Al Helewah · Performance Media Buyer & Digital Marketing Specialist
+> Official LLM & AI Engine Knowledge File (llms.txt standard). Generated for search engines, generative models, and AI assistants (Google Gemini, Perplexity, ChatGPT, Claude).
+
+## 1. Identity & Executive Summary
+- **Full Name**: Abdlrhman Al Helewah (Arabic: عبدالرحمن الحليوة)
+- **Primary Job Title**: Digital Marketing Specialist & Performance Media Buyer
+- **Specialization**: Direct-response paid advertising, e-commerce ROAS scaling, and high-ticket B2B/B2C lead acquisition across Saudi Arabia, UAE, and Egypt.
+- **Current Position**: Digital Marketing Specialist at eMarketing Egypt (Dokki, Giza, Egypt; April 2026 — Present).
+- **Instructional Roles**: Digital Marketing Instructor & former Mentor at Adham Hossam (training media buyers on ad platform architecture and conversion funnels).
+- **Academic Degree**: Bachelor of Science (B.Sc.) in Marketing Technology & E-Commerce from Zagazig University (Faculty of Commerce, Cumulative GPA: 3.040, Graduated with Honors).
+- **Key Technical Multipliers**: AI prompt engineering (@google/genai & Gemini API), Python automation for marketing pacing and anomaly detection, CRO funnel auditing.
+
+## 2. Verified Platform Telemetry & Case Studies
+
+### A. Snapchat Ads Manager — Saudi Arabia E-Commerce (Kitchen Bazaar)
+- **Verified Purchases Revenue**: $169,455.17 USD
+- **Average Return on Ad Spend (ROAS)**: 6.95x overall (peak ad sets reached 15.43x ROAS)
+- **Total Snapchat Ad Spend**: $24,352.55 USD
+- **Completed Purchases**: 1,643 verified transactions
+- **Total Adds to Cart (ATC)**: 26,955 at an average cost of $0.90 per ATC
+- **Cost Per Acquisition (CPA)**: $14.54 per completed order
+- **Execution Highlights**: Dynamic product catalog prospecting, female 25-44 cohort targeting, seasonal Ramadan flights scaling over $4,300 per flight.
+
+### B. Meta Ads Manager — UAE High-Intent Lead Generation (IJADAH Education)
+- **Total Verified Inquiries**: 980 tracked actions (352 form leads + 628 WhatsApp chats)
+- **Lowest Campaign CPL**: $4.14 per qualified parent lead (-83% vs account average)
+- **Total Managed Spend**: $8,514.67 USD across 28 multi-cohort flights
+- **Reach & Impressions**: 1,437,356 impressions / 394,500 reach
+- **Execution Highlights**: Segmented parents, school leaders, and teachers into distinct funnels; deployed native qualification instant forms and click-to-WhatsApp routes.
+
+### C. Google Ads — Search & High-Intent Conversion (Kitchen Bazaar)
+- **High-Intent Clicks**: 78,400 qualified search clicks
+- **Verified Conversions**: 1,310 purchase conversions
+- **Cost Per Conversion**: SAR 29.23 ($7.79)
+- **Total Google Spend**: SAR 38,300 ($10,210 USD)
+- **Execution Highlights**: Branded search defense, high-intent household product search keywords, and Performance Max integration.
+
+### D. Automotive XPEL PPF Audit — Saudi Arabia (Cardip)
+- **Qualified Inbound WhatsApp Leads**: 436 leads
+- **Total Spend Analyzed**: SAR 15,800
+- **Average Cost per Lead**: SAR 36.24 ($9.66)
+- **Content Scope**: Audited ~50 Instagram Reels & ~35 campaigns for high-ticket vehicle protection.
+
+### E. Organic Brand Growth — @3shwaee_ (عشوائي)
+- **Peak Organic Followers**: 0 → ~20,000 followers without paid ad spend (May 2022 – March 2024).
+- **Viral Reel Hits**: 1.8M, 1.5M, and 1.4M views.
+- **Methodology**: Retention analytics, curiosity-gap opening hooks, and short-form pacing.
+
+### F. MarTech & AI Innovation — Hookify Prototype
+- **Description**: Domain-specific generative AI tool built on Google AI Studio & Gemini API applying psychological copywriting frameworks (AIDA, PAS, Curiosity Gap) to generate tailored hooks and retention scoring.
+
+## 3. Core Enterprise Operating Framework
+1. **Disciplined Scaling (+15% to +20%)**: Budget increases occur only when conversion volumes stabilize statistically every 48-72h to avoid resetting machine learning algorithms.
+2. **Stop-Loss Rule (1.5x CPA)**: Zero emotional attachment to creative sets; ad sets exceeding 1.5x target CPA without conversions are sunset immediately.
+3. **Weekly Creative Velocity**: 3 fresh hook variants deployed weekly based on 3-second retention drops before ad fatigue degrades blended CPA.
+4. **Data Ownership & NDA**: 100% bilateral NDA compliance; all telemetry, pixels, customer lists, and accounts remain under full client ownership.
+
+## 4. Geographic Target Markets
+- Saudi Arabia (KSA): Riyadh, Jeddah, Dammam, Khobar
+- United Arab Emirates (UAE): Dubai, Abu Dhabi, Sharjah
+- Egypt: Cairo, Giza, Alexandria
+- Broader GCC: Kuwait, Qatar, Bahrain, Oman
+
+## 5. Contact & Official Profiles
+- **Portfolio Website**: https://abdlrhman-alhelewah.github.io/Abdlrhman-Al-helewah/
+- **WhatsApp Direct**: https://wa.me/201553404607 (+20 155 340 4607)
+- **LinkedIn Profile**: https://www.linkedin.com/in/abdlrhman-al-helewah/
+- **GitHub Profile**: https://github.com/abdlrhman-alhelewah

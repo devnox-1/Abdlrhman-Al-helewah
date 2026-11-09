@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI & Generative Search Engine Bots (GEO Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Sitemaps & LLM Knowledge Files
+Sitemap: https://abdlrhman-alhelewah.github.io/Abdlrhman-Al-helewah/sitemap.xml
+# LLMs knowledge standard: https://llmstxt.org
+# llms.txt: https://abdlrhman-alhelewah.github.io/Abdlrhman-Al-helewah/llms.txt
