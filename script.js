@@ -1686,20 +1686,21 @@ const I18N_DICTIONARY = {
     chat_whatsapp: 'تواصل عبر واتساب',
 
     // Hero
-    hero_status: 'متاح للتوظيف وإدارة وتوسيع الحملات · دول الخليج وعن بُعد',
+    hero_status: 'متاح للعمل وإدارة الحملات · دول الخليج ومصر وعن بُعد',
     hero_name: 'عبدالرحمن الحليوة',
     hero_role: 'أخصائي تسويق رقمي وإعلانات ممولة (Digital Marketing Specialist)',
-    hero_pitch: 'أخصائي تسويق رقمي (Digital Marketing Specialist) متخصص في إعلانات الأداء المباشر والنمو المربح عبر <strong>سناب شات، إعلانات بحث جوجل، وميتا (فيسبوك وإنستجرام)</strong> في أسواق الخليج العربي ومصر. حققت <strong>169,455$ مبيعات موثقة في التجارة الإلكترونية بعائد 6.95x ROAS</strong> عبر سناب شات واستقطاب <strong>980 استفساراً مؤكداً</strong> (بأقل تكلفة 4.14$). أستثمر أدوات الذكاء الاصطناعي وهندسة الأوامر وتحليل البيانات لاختبار الزوايا الإعلانية بمرونة فائقة ورفع كفاءة النتائج.',
+    hero_pitch: 'أخصائي تسويق رقمي وإعلانات أداء متخصص في <strong>سناب شات، بحث جوجل، وميتا</strong> في أسواق السعودية والإمارات ومصر. أدمج تحليل البيانات واختبار الزوايا الإعلانية مع الأتمتة لتحقيق نمو مربح بأعلى كفاءة.',
 
     // KPIs
-    kpi_1_label: 'إيرادات مبيعات التجارة الإلكترونية',
+    kpi_1_label: 'مبيعات سناب شات',
     kpi_1_sub: '1,643 طلب شراء مكتمل · السوق السعودي (سناب شات)',
-    kpi_2_label: 'استفسارات وعملاء مؤهلون',
-    kpi_2_sub: '4.14$ أقل تكلفة استحواذ · الإمارات (28 حملة إعلانية)',
+    kpi_2_label: 'عملاء محتملون (ميتا)',
+    kpi_2_badge: '4.14$ أقل CPL',
+    kpi_2_sub: '352 استمارة و628 محادثة واتساب · الإمارات',
     kpi_3_label: 'ميزانيات إعلانية مدارة',
     kpi_3_badge: 'قنوات متعددة',
     kpi_3_sub: 'سناب شات، بحث جوجل وميتا عبر دول الخليج',
-    kpi_4_label: 'أداة تسريع صناعة الإعلانات',
+    kpi_4_label: 'أداة صناعة الإعلانات',
     kpi_4_badge: 'محرك نصوص ذكي',
     kpi_4_sub: 'ابتكار وتطوير · تسريع اختبار الزوايا الإعلانية',
 
@@ -2003,22 +2004,23 @@ const I18N_DICTIONARY = {
     chat_whatsapp: 'Chat on WhatsApp',
 
     // Hero
-    hero_status: 'Available for Growth & Paid Acquisition · Remote & GCC',
+    hero_status: 'Available for Work · Egypt, GCC & Remote',
     hero_name: 'Abdlrhman Al Helewah',
     hero_role: 'Digital Marketing Specialist · Performance Media Buying & Acquisition',
-    hero_pitch: 'Digital Marketing Specialist focused on high-growth performance media buying across <strong>Snapchat, Google & Meta Ads</strong> in the GCC and Egypt. Generated <strong>$169,455 in verified e-commerce revenue at 6.95x ROAS</strong> on Snapchat and captured <strong>980 qualified inquiries</strong> ($4.14 lowest CPL). Leverages custom AI workflows, prompt engineering, and deep data analytics to test creative angles rapidly and maximize acquisition profit.',
+    hero_pitch: 'Performance Media Buyer specializing in <strong>Snapchat, Google & Meta Ads</strong> across Saudi Arabia, UAE, and Egypt. Combining data analytics, creative hook testing, and automated workflows to scale acquisition profitably.',
 
     // KPIs
-    kpi_1_label: 'E-Com Purchases Revenue',
-    kpi_1_sub: '1,643 Orders · Saudi Arabia (Snapchat Ads)',
-    kpi_2_label: 'Qualified Inquiries & Leads',
-    kpi_2_sub: '$4.14 Lowest CPL · UAE (28 Meta Flights)',
+    kpi_1_label: 'Snapchat E-Com',
+    kpi_1_sub: '1,643 Purchases · Saudi Arabia (Snapchat Ads)',
+    kpi_2_label: 'Meta Inbound Leads',
+    kpi_2_badge: '$4.14 Min CPL',
+    kpi_2_sub: '352 Form Leads & 628 WhatsApp Chats · UAE',
     kpi_3_label: 'Managed Ad Spend',
     kpi_3_badge: 'Multi-Channel',
-    kpi_3_sub: 'Snapchat, Google & Meta Ads across GCC',
-    kpi_4_label: 'Ad Multiplier Tool',
-    kpi_4_badge: 'AI Hook Engine',
-    kpi_4_sub: 'Creator & Media Buyer Edge · Ad Velocity',
+    kpi_3_sub: 'Documented client budgets across GCC & Egypt',
+    kpi_4_label: 'Ad Creative Engine',
+    kpi_4_badge: 'AI Hooks Tool',
+    kpi_4_sub: 'AI-assisted ad hooks & creative angle testing',
 
     // Hero CTAs
     hero_cta_wa: 'Chat on WhatsApp',
